@@ -1,0 +1,79 @@
+{
+  "errors": [],
+  "warnings": [
+    "./.cache/static-entry.js\nModule not found: Error: Can't resolve '../src/html' in 'C:\\wamp64\\www\\stageverslag-violet88\\frontend\\.cache'\n @ ./.cache/static-entry.js"
+  ],
+  "version": "4.44.2",
+  "hash": "ce76b231f029c283db42",
+  "publicPath": "/stage-verslag/",
+  "outputPath": "C:\\\\wamp64\\\\www\\\\stageverslag-violet88\\\\frontend\\\\public",
+  "assetsByChunkName": {
+    "main": [
+      "render-page.js",
+      "render-page.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "render-page.js",
+      "size": 755589,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "render-page.js.map",
+      "size": 934666,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "render-page.js",
+        "render-page.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "render-page.js",
+        "render-page.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
