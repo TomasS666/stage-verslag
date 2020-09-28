@@ -4,7 +4,7 @@
     "./.cache/static-entry.js\nModule not found: Error: Can't resolve '../src/html' in 'C:\\wamp64\\www\\stageverslag-violet88\\frontend\\.cache'\n @ ./.cache/static-entry.js"
   ],
   "version": "4.44.2",
-  "hash": "c40338d08a329d2be6ad",
+  "hash": "96ca99f400311c878ebf",
   "publicPath": "/stage-verslag/",
   "outputPath": "C:\\\\wamp64\\\\www\\\\stageverslag-violet88\\\\frontend\\\\public",
   "assetsByChunkName": {
@@ -16,7 +16,7 @@
   "assets": [
     {
       "name": "render-page.js",
-      "size": 755681,
+      "size": 755668,
       "chunks": [
         "main"
       ],
